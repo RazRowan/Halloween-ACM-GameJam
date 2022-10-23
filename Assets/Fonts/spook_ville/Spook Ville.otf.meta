@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1cebd0c6def14e94dbbddc73d27df4ea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Spook Ville
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0ec358d3480d4a42bc81bf4b99cbdaa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
